@@ -109,7 +109,7 @@
     {
         "english_name": "Bacardi",
         "korean_name": "바카디",
-        "code": "401019040",
+        "code": "400019040",
         "ingredients": [
             {
                 "name": "화이트 럼",
@@ -302,7 +302,7 @@
     {
         "english_name": "Between-the-Sheets",
         "korean_name": "비트윈 더 시츠",
-        "code": "401710230013",
+        "code": "400710230013",
         "ingredients": [
             {
                 "name": "화이트 럼",
@@ -485,7 +485,7 @@
     {
         "english_name": "Daiquiri",
         "korean_name": "다이키리",
-        "code": "401019040",
+        "code": "400019040",
         "ingredients": [
             {
                 "name": "화이트 럼",
@@ -750,7 +750,7 @@
     {
         "english_name": "Mary-Pickford",
         "korean_name": "메리 픽퍼드",
-        "code": "401018210043",
+        "code": "400018210043",
         "ingredients": [
             {
                 "name": "화이트 럼",
@@ -1503,7 +1503,7 @@
     {
         "english_name": "Cuba-Libre",
         "korean_name": "쿠바 리브레",
-        "code": "401006019",
+        "code": "400006019",
         "ingredients": [
             {
                 "name": "화이트 럼",
@@ -1711,7 +1711,7 @@
     {
         "english_name": "Hemingway-Special",
         "korean_name": "헤밍웨이 스페셜",
-        "code": "401210019015",
+        "code": "400210019015",
         "ingredients": [
             {
                 "name": "화이트 럼",
@@ -1810,7 +1810,7 @@
     {
         "english_name": "Long-Island-Iced-Tea",
         "korean_name": "롱 아일랜드 아이스 티",
-        "code": "600301401500230013040006",
+        "code": "600301400500230013040006",
         "ingredients": [
             {
                 "name": "보드카",
@@ -1872,7 +1872,7 @@
     {
         "english_name": "Mai-Tai",
         "korean_name": "마이타이",
-        "code": "401230010018043",
+        "code": "400230010018043",
         "ingredients": [
             {
                 "name": "화이트 럼",
@@ -1973,7 +1973,7 @@
     {
         "english_name": "Mojito",
         "korean_name": "모히토",
-        "code": "401060061030003",
+        "code": "400060061030003",
         "ingredients": [
             {
                 "name": "화이트 럼",
@@ -2204,7 +2204,7 @@
     {
         "english_name": "Piña-Colada",
         "korean_name": "피나 콜라다",
-        "code": "401032018",
+        "code": "400032018",
         "ingredients": [
             {
                 "name": "화이트 럼",
@@ -2623,7 +2623,7 @@
     {
         "english_name": "Blue-Hawaiian",
         "korean_name": "블루 하와이안",
-        "code": "401222032018",
+        "code": "400222032018",
         "ingredients": [
             {
                 "name": "화이트 럼",
@@ -3368,7 +3368,7 @@
     {
         "english_name": "Yellow-Bird",
         "korean_name": "옐로우 버드",
-        "code": "401240230019",
+        "code": "400240230019",
         "ingredients": [
             {
                 "name": "화이트 럼",

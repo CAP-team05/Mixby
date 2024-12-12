@@ -175,7 +175,7 @@ def all_recommmend():
     time = data['time']
     weather = data['weather']
 
-    ret = get_recommend.getDefaultRecommend(persona, cocktail_list, season, time, weather)
+    ret = get_recommend.getAllRecommends(persona, cocktail_list, season, time, weather)
     
     return ret
 
