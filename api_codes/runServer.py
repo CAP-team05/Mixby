@@ -164,6 +164,21 @@ def userinfo():
 
     return ret
 
+@app.route('/recommend', methods=['POST'])
+@as_json
+def all_recommmend():
+    data = request.get_json()
+    print(data)
+    persona = data['persona']
+    cocktail_list = data['cocktail_list']
+    season = data['season']
+    time = data['time']
+    weather = data['weather']
+
+    ret = get_recommend.getDefaultRecommend(persona, cocktail_list, season, time, weather)
+    
+    return ret
+
 @app.route('/recommend/<id>', methods=['POST'])
 @as_json
 def recommmend(id):
