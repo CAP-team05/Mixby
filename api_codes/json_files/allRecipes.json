@@ -181,7 +181,7 @@
             },
             {
                 "name": "드라이 진",
-                "code": "301",
+                "code": "300",
                 "amount": "30",
                 "unit": "ml"
             },
@@ -238,7 +238,7 @@
         "ingredients": [
             {
                 "name": "드라이 진",
-                "code": "301",
+                "code": "300",
                 "amount": "30",
                 "unit": "ml"
             },
@@ -269,7 +269,7 @@
         "ingredients": [
             {
                 "name": "드라이 진",
-                "code": "301",
+                "code": "300",
                 "amount": "45",
                 "unit": "ml"
             },
@@ -413,7 +413,7 @@
         "ingredients": [
             {
                 "name": "드라이 진",
-                "code": "301",
+                "code": "300",
                 "amount": "40",
                 "unit": "ml"
             },
@@ -451,7 +451,7 @@
         "ingredients": [
             {
                 "name": "드라이 진",
-                "code": "301",
+                "code": "300",
                 "amount": "45",
                 "unit": "ml"
             },
@@ -516,11 +516,11 @@
     {
         "english_name": "Dry-Martini",
         "korean_name": "드라이 마티니",
-        "code": "301",
+        "code": "300",
         "ingredients": [
             {
                 "name": "드라이 진",
-                "code": "301",
+                "code": "300",
                 "amount": "60",
                 "unit": "ml"
             }
@@ -540,7 +540,7 @@
         "ingredients": [
             {
                 "name": "드라이 진",
-                "code": "301",
+                "code": "300",
                 "amount": "45",
                 "unit": "ml"
             },
@@ -577,7 +577,7 @@
         "ingredients": [
             {
                 "name": "드라이 진",
-                "code": "301",
+                "code": "300",
                 "amount": "45",
                 "unit": "ml"
             },
@@ -647,7 +647,7 @@
         "ingredients": [
             {
                 "name": "드라이 진",
-                "code": "301",
+                "code": "300",
                 "amount": "20",
                 "unit": "ml"
             },
@@ -716,7 +716,7 @@
         "ingredients": [
             {
                 "name": "드라이 진",
-                "code": "301",
+                "code": "300",
                 "amount": "45",
                 "unit": "ml"
             },
@@ -791,7 +791,7 @@
         "ingredients": [
             {
                 "name": "드라이 진",
-                "code": "301",
+                "code": "300",
                 "amount": "50",
                 "unit": "ml"
             },
@@ -828,7 +828,7 @@
         "ingredients": [
             {
                 "name": "드라이 진",
-                "code": "301",
+                "code": "300",
                 "amount": "30",
                 "unit": "ml"
             },
@@ -898,7 +898,7 @@
         "ingredients": [
             {
                 "name": "드라이 진",
-                "code": "301",
+                "code": "300",
                 "amount": "35",
                 "unit": "ml"
             },
@@ -998,7 +998,7 @@
         "ingredients": [
             {
                 "name": "드라이 진",
-                "code": "301",
+                "code": "300",
                 "amount": "60",
                 "unit": "ml"
             },
@@ -1180,7 +1180,7 @@
         "ingredients": [
             {
                 "name": "드라이 진",
-                "code": "301",
+                "code": "300",
                 "amount": "30",
                 "unit": "ml"
             },
@@ -1281,7 +1281,7 @@
         "ingredients": [
             {
                 "name": "드라이 진",
-                "code": "301",
+                "code": "300",
                 "amount": "40",
                 "unit": "ml"
             },
@@ -1538,7 +1538,7 @@
         "ingredients": [
             {
                 "name": "드라이 진",
-                "code": "301",
+                "code": "300",
                 "amount": "30",
                 "unit": "ml"
             },
@@ -1820,7 +1820,7 @@
             },
             {
                 "name": "드라이 진",
-                "code": "301",
+                "code": "300",
                 "amount": "15",
                 "unit": "ml"
             },
@@ -2346,7 +2346,7 @@
         "ingredients": [
             {
                 "name": "드라이 진",
-                "code": "301",
+                "code": "300",
                 "amount": "30",
                 "unit": "ml"
             },
@@ -2558,7 +2558,7 @@
         "ingredients": [
             {
                 "name": "드라이 진",
-                "code": "301",
+                "code": "300",
                 "amount": "45",
                 "unit": "ml"
             },
@@ -2589,7 +2589,7 @@
         "ingredients": [
             {
                 "name": "드라이 진",
-                "code": "301",
+                "code": "300",
                 "amount": "40",
                 "unit": "ml"
             },
@@ -3156,7 +3156,7 @@
         "ingredients": [
             {
                 "name": "드라이 진",
-                "code": "301",
+                "code": "300",
                 "amount": "45",
                 "unit": "ml"
             },
